@@ -5,4 +5,4 @@ class Config:
     RAW_DATA_PATH = ROOT_PATH / 'data' / 'raw'
     PROCESSED_DATA_PATH = ROOT_PATH / 'data' / 'processed'
     RAW_DATA_FILE = RAW_DATA_PATH / 'City_MedianRentalPrice_AllHomes.csv'
-    PROCESSED_DATA_FILE = PROCESSED_DATA_PATH / 'City_MedianRentalPrice_AllHomes.csv'
+    PROCESSED_DATA_FILE = PROCESSED_DATA_PATH / 'median_price_all_homes.csv'
